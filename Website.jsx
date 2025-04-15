@@ -2,19 +2,19 @@ import React from "react";
 
 const products = [
   {
-    name: "iPad 11" Wi-Fi (A16)",
+    name: 'iPad 11" Wi-Fi (A16)',
     price: "399,00 EUR",
     delivery: "5–14 Werktage",
     note: "Solides Einsteigergerät mit starkem Preis-Leistungs-Verhältnis."
   },
   {
-    name: "iPad Pro 11" M2 Wi-Fi",
+    name: 'iPad Pro 11" M2 Wi-Fi',
     price: "749,00 EUR",
     delivery: "5–14 Werktage",
     note: "Top-Leistung für intensive Anwendungen und Lehrer:innen."
   },
   {
-    name: "iPad Air 10,9" (M1)",
+    name: 'iPad Air 10,9" (M1)',
     price: "619,00 EUR",
     delivery: "5–14 Werktage",
     note: "Modernes Design, stark für den Schulalltag."
